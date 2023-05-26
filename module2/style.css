@@ -50,4 +50,143 @@
     -webkit-overflow-scrolling: touch;
     
 }
+.py-5{
+  background-color: #181e1d;
+}
+.col-1{
+  
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 80px;
+  background: #181e1d;
+  border-radius: 15px ;
+  margin-top: 40px;
+}
+.col0{
+  width: 200px;
+}
 
+.container-1{
+    margin: 0;
+    padding: 0;
+    background-color:#c0d9e3ba;
+    font-family: 'Arial';
+    height: 600px;
+  
+}
+.row{
+  margin: 0; ;
+}
+.col1{
+  width: 482px;
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 80px;
+  background: #181e1d;
+  border-radius: 15px ;
+  margin-top: 40px;
+}
+h1{
+  text-align: center;
+  color:  #277582;
+  padding: 20px;
+}
+h6{
+  width: 235px;
+  color: #bbd9de;
+}
+label{
+  color: #08ffd1;
+    font-size: 17px;
+     
+}
+#username{
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+#email{
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+
+}
+#password{
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 8px;
+}
+#button{
+  width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: blue;
+    margin-top: 15px;
+}
+.container2{
+  background-color: #181e1d;
+  width: 1200px;
+  height: 600px;
+  margin-left: 30px;
+}
+.box{
+ 
+  color: #277582;
+  align-items: center;
+  width: 500px;
+  display: inline-grid;
+  justify-content: normal;
+  margin-left: 375px;
+  margin-top: 50px;
+
+}
+.h2{
+  
+  color:#CCCCFF;
+}
+.h5{
+color: #9FE2BF;
+margin-left: 15px;
+
+}
+
+
+#buttonn{
+  background-color: #CCCCFF;
+  width: 150px;
+  height: 30px;
+  border: none;
+  margin-left: 120px;
+  margin-top: 20px;
+  border-radius: 10px;
+ }
+ .img{
+  width: 300px;
+  height: 250;
+  margin-top: 50px;
+  margin-left: 425px;
+  background-color: #277582;
+  border-radius: 17px;
+  
+ }
+ .footer{
+  background-color: #f9fcfc;
+  height: 100px;
+  text-align: center;
+}
+#username-error,#email-Error,#password-error,#submit-error{
+  color: #fdfffe;
+  font-size: 13px;
+}
+ 
+ 
