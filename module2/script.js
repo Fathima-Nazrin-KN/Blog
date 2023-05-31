@@ -64,7 +64,7 @@ function validateForm(){
 function validateFormm(){
     let submitError= document.getElementById('submit-error');
    
-    if(!validateEmail() || !validatePassword() || !validatename()){
+    if( !validatePassword() || !validatename()){
         submitError.innerHTML= 'please resolve the errors'
         return false;
     }else{
